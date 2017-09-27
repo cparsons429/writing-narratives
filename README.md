@@ -1,2 +1,2 @@
 # WritingNarratives
-The core IP for generating narratives around data.
+Teh core ip 4 genuratn narativs about data.
